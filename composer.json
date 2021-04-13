@@ -1,0 +1,20 @@
+{
+    "name": "hrqa006/db-sample2",
+    "autoload": {
+        "_comment": "there is a class with namespace called main  in the folder globalClasses",
+        "psr-4":
+        {
+            "main\\": "./",
+            "classfile\\": "classfile/",
+            "phpfile\\": "phpfile/",
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Del Rosario, Jerome",
+            "email": "jdelrosario01001@gmail.com"
+        }
+    ],
+    "require": {}
+}
